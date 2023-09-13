@@ -4,7 +4,7 @@
 ## Архитектура Аналитического Решения
 Решение в файле - [analytical_solution.dio](https://github.com/Gleb01548/DE-101/blob/main/Module1/analytical_solution.dio)
 
-![Архитектура Аналитического Решения](/img/apx.png)
+![Архитектура Аналитического Решения](img/apx.png)
 
 
 ### Цель проекта:
