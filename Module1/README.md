@@ -4,7 +4,7 @@
 ## Архитектура Аналитического Решения
 Решение в файле - [analytical_solution.dio](https://github.com/Gleb01548/DE-101/blob/main/Module1/analytical_solution.dio)
 
-![Архитектура Аналитического Решения](img/apx.png)
+![Архитектура Аналитического Решения](/Module1/image/арх.png)
 
 
 ### Цель проекта:
@@ -46,8 +46,8 @@
 ## Аналитика excel
 Решение в файле [homework.xlsx](https://github.com/Gleb01548/DE-101/blob/main/Module1/homework.xlsx) 
 
-![Сравнение сумм продаж по штатам](/img/дашборд1.png)
+![Сравнение сумм продаж по штатам](/Module1/image/дашборд1.png)
 
-![Сравнение прибыли с продаж по штатам](/img/дашборд2.png)
+![Сравнение прибыли с продаж по штатам](/Module1/image/дашборд2.png)
 
-![Прибыль ро мясецам](/img/дашборд3.png)
+![Прибыль ро мясецам](/Module1/image/дашборд3.png)
